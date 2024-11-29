@@ -3,37 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fútbol: El Deporte Rey</title>
+    <title>Página sobre el Fútbol</title>
 </head>
 <body>
-    <header>
-        <h1>Fútbol: El Deporte Rey</h1>
-    </header>
-    <main>
-        <section>
-            <h2>¿Qué es el fútbol?</h2>
-            <p>El fútbol es un deporte de equipo que se juega con un balón en un campo rectangular, donde dos equipos de 11 jugadores compiten por marcar goles en la portería del equipo contrario. Es conocido como el "deporte rey" debido a su popularidad mundial.</p>
-        </section>
-        <section>
-            <h2>Historia del Fútbol</h2>
-            <p>El fútbol moderno se originó en Inglaterra en el siglo XIX, aunque deportes similares han existido desde la antigüedad. La Federación Internacional de Fútbol Asociación (FIFA) fue fundada en 1904 y organiza eventos como la Copa del Mundo, que es el torneo más importante a nivel global.</p>
-        </section>
-        <section>
-            <h2>Reglas Básicas</h2>
-            <ul>
-                <li>Un partido dura 90 minutos, divididos en dos tiempos de 45 minutos.</li>
-                <li>El balón debe ser jugado con cualquier parte del cuerpo excepto las manos o brazos, salvo por el portero dentro de su área.</li>
-                <li>El equipo que marque más goles al final del partido gana.</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Importancia Cultural</h2>
-            <p>El fútbol es mucho más que un deporte; es una pasión que une a millones de personas en todo el mundo. En muchos países, es parte fundamental de la cultura y tiene un impacto social, económico y político significativo.</p>
-        </section>
-    </main>
-    <footer>
-        <p>Creado por [Tu Nombre]</p>
-        <p>Fecha: 29 de noviembre de 2024</p>
-    </footer>
+    <h1>Bienvenidos a mi página sobre el fútbol</h1>
+    <p>En esta página encontrarás todo sobre fútbol.</p>
 </body>
 </html>
+       
