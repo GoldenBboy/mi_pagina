@@ -3,14 +3,86 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página sobre el Fútbol</title>
+    <title>Fútbol y Apuestas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #004d00;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            margin: 20px;
+        }
+        h2 {
+            color: #004d00;
+        }
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .content div {
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin: 10px;
+            padding: 15px;
+            width: 45%;
+        }
+        img {
+            width: 100%;
+            border-radius: 5px;
+        }
+        .footer {
+            background-color: #004d00;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Bienvenidos a mi página sobre el fútbol</h1>
-    <p>En esta página encontrarás todo sobre fútbol, historia, jugadores y mucho más.</p>
 
-    <!-- Imagen de fútbol -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Football_74629.png" alt="Imagen de fútbol" width="500">
+<header>
+    <h1>Todo sobre el Fútbol y las Apuestas</h1>
+</header>
+
+<section>
+    <h2>El Fútbol: Un Deporte Universal</h2>
+    <p>El fútbol es el deporte más popular del mundo, jugado en casi todos los países y seguido por millones de fanáticos. Los equipos luchan por el campeonato en competiciones globales como la Copa Mundial, la UEFA Champions League y ligas locales como la Premier League o La Liga.</p>
+    <div class="content">
+        <div>
+            <h3>¿Cómo Jugar al Fútbol?</h3>
+            <p>El fútbol es jugado entre dos equipos de 11 jugadores. El objetivo es marcar más goles que el equipo contrario, moviendo un balón con los pies hacia la portería contraria.</p>
+            <img src="https://via.placeholder.com/400x250.png?text=Campo+de+Fútbol" alt="Campo de fútbol">
+        </div>
+        <div>
+            <h3>La Pasión de las Apuestas</h3>
+            <p>Las apuestas deportivas han ganado popularidad, especialmente en eventos importantes como la Copa Mundial. Los aficionados pueden apostar por los resultados de los partidos, pero siempre deben tener en cuenta el riesgo y apostar de manera responsable.</p>
+            <img src="https://via.placeholder.com/400x250.png?text=Apuestas+de+Fútbol" alt="Apuestas de fútbol">
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Curiosidades sobre el Fútbol</h2>
+    <ul>
+        <li>El primer partido de fútbol oficial se jugó en 1863 en Inglaterra.</li>
+        <li>Brasil es el país con más Copas del Mundo ganadas, con 5 títulos.</li>
+        <li>La UEFA Champions League es el torneo de clubes más prestigioso del mundo.</li>
+    </ul>
+</section>
+
+<div class="footer">
+    <p>&copy; 2024 Fútbol y Apuestas | Todos los derechos reservados</p>
+</div>
 
 </body>
 </html>
