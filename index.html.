@@ -7,7 +7,10 @@
 </head>
 <body>
     <h1>Bienvenidos a mi página sobre el fútbol</h1>
-    <p>En esta página encontrarás todo sobre fútbol.</p>
+    <p>En esta página encontrarás todo sobre fútbol, historia, jugadores y mucho más.</p>
+
+    <!-- Imagen de fútbol -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Football_74629.png" alt="Imagen de fútbol" width="500">
+
 </body>
 </html>
-       
